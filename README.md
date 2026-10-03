@@ -2,4 +2,4 @@
 
 ## Description
 
-MYBD is an AI-powered database. It is written in C++.
+MYDB is an AI-powered database. It is written in C++.
