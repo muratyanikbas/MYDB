@@ -2,4 +2,4 @@
 
 ## Description
 
-MYDB is an AI database. It is written in C++.
+MYDB is an AI database management system. It is written in C++.
